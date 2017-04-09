@@ -7,6 +7,7 @@ public class test {
 		System.out.println("Hello GitHub!");
 		System.out.println("第一次本地修改！");
 		System.out.println("第二次GitHub修改！");
+		System.out.println("第三次GitHub冲突！");
 	}
 
 }
